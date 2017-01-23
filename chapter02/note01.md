@@ -12,6 +12,11 @@
 
 
 手动下载gradle
+1.在Android Studio中取消下载（不过貌似有个bug，取消不了，
+那就直接在运行studio.sh的终端中按Ctrl + C 退出Android Studio）。
+将gradle-1.10-bin.zip.part移除，把自己下载的gradle-1.10-bin.zip复制到这个目录。
+2.然后在终端中输入gradle -v
+
 
 
 >请在此记录你的学习笔记

@@ -1,6 +1,7 @@
 ###View的绘制机制
 >掌握onMeasure,onLayout,onDraw及相关类的使用。
 ####1.View的绘制流程
+####2.相关类的使用，主要是在onDraw()方法里，Paint、Canvas、Matrix等类的使用。
 
 1.Paint的style
   Paint.Style.FILL：填充内部
